@@ -39,7 +39,7 @@ title: Home
 
 ## Education
 
- - Bootcamp Le Wagon - Batch #653 - [Link](https://kitt.lewagon.com/alumni/cthonney)
-   **Certification de Concepteur - développeur d'applications web**
- *Enregistrée au RNCP au niveau 6 par la décision de France Compétences du 17/06/2021*
+- Bootcamp Le Wagon - Batch #653 - [Lien](https://kitt.lewagon.com/alumni/cthonney)\
+Certification de Concepteur - développeur d'applications web\
+*Enregistrée au RNCP au niveau 6 par la décision de France Compétences du 17/06/2021*
 
