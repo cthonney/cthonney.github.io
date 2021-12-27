@@ -36,6 +36,7 @@ title: Home
   - Back-end
   - Hosting
   - Team Leader
+  - Chasseur de bugs🐞
 
 ## Education
 
