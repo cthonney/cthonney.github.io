@@ -7,7 +7,7 @@ title: Contact
 ---
 
 
-<div class="container py-4 mx-auto" style="max-width: 600px;">
+
 
 
   <form id="contactForm" class="kwes-form" action="https://kwesforms.com/api/foreign/forms/nikfy6jPulpCg2sqZg30">
@@ -32,5 +32,4 @@ title: Contact
     </div>
   </form>
 
-</div>
 
