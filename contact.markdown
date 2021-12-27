@@ -28,7 +28,7 @@ title: Contact
       <textarea class="form-control" id="message" type="text" placeholder="Ecrivez votre message" style="height: 10rem;" name="message"></textarea>
     </div>
     <div class="d-grid">
-      <button class="btn btn-outline-secondary btn-lg" type="submit">Submit</button>
+      <button class="btn btn-outline-secondary btn-lg" type="submit">Envoyer</button>
     </div>
   </form>
 
