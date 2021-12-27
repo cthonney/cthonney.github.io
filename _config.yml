@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: THONNEY Maurice Cédric
-email: cedric@thonney.me
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
  Ruby On Rails Web Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
