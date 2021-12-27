@@ -23,7 +23,7 @@ email: cedric@thonney.me
 description: >- # this means to ignore newlines until "baseurl:"
  Ruby On Rails Web Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://cthonney.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://thonney.me # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  cthonney
 
