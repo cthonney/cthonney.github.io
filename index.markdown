@@ -22,25 +22,26 @@ title: Home
  - Figma
  - Github / Gitlab
 
-## Expériences d'enseignement
+## Teaching experiences
 
  - Teacher assistant at Le Wagon
  - Teacher Freelance
 
 
 
-## Compétences
+## Skills
   - User journey
   - UX Design
   - Front-end
   - Back-end
   - Hosting
   - Team Leader
-  - Chasseur de bugs🐞
+  - Bug Hunter🐞
 
 ## Education
 
 - Bootcamp Le Wagon - Batch #653 - [Lien](https://kitt.lewagon.com/alumni/cthonney)\
+Web Application Developer - Designer Certification\
+*Registered at RNCP at level 6 by the decision of France Compétences of 17/06/2021* \
 Certification de Concepteur - développeur d'applications web\
-*Enregistrée au RNCP au niveau 6 par la décision de France Compétences du 17/06/2021*
-
+*Enregistrée au RNCP au niveau 6 par la décision de France Compétences du 17/06/2021*\
