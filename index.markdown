@@ -24,7 +24,7 @@ title: Home
 
 ## Teaching experiences
 
- - Teacher assistant at Le Wagon
+ - Teacher/Lecturer @ Le Wagon
  - Teacher Freelance
 
 
